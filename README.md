@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CV</title>
+</head>
+<body style="border:2px solid black; margin:20px; padding:30px; font-family:Arial;">
+
+    <hr style="width:80%;">
+
+    <h1>Ravi Kumar</h1>
+    <h3 style="color:green;">Junior Frontend Developer</h3>
+
+    <p>
+        123 Your Street<br>
+        Your City, ST 12345<br>
+        (123) 456-7890<br>
+        no_reply@example.com
+    </p>
+
+    <h3 style="color:green;">Skills</h3>
+    <p>
+        HTML, CSS, JavaScript, Accessibility, Figma to Design,
+        Responsive Web Design, Technical Writing, Presentation
+    </p>
+
+    <h3 style="color:green;">Education</h3>
+    <p>
+        <b style="color:blue;">School Name, Location - Degree</b><br>
+        Month 20xx to Month 20xx<br>
+        List of exciting things you did at university
+    </p>
+
+    <h3 style="color:green;">Experience</h3>
+
+    <p>
+        <b style="color:blue;">Company Name, Location - Job Title</b><br>
+        Month 20xx to Month 20xx
+    </p>
+
+    <ul>
+        <li>List of achievements</li>
+        <li>List of achievements</li>
+        <li>List of achievements</li>
+    </ul>
+
+    <p>
+        Skills: List of skills used or gained at this company
+    </p>
+
+    <p>
+        <b style="color:blue;">Company Name, Location - Job Title</b><br>
+        Month 20xx to Month 20xx
+    </p>
+
+    <ul>
+        <li>List of achievements</li>
+        <li>List of achievements</li>
+        <li>List of achievements</li>
+    </ul>
+
+    <p>
+        Skills: List of skills used or gained at this company
+    </p>
+
+    <h3 style="color:green;">Across the Internet</h3>
+    <p>
+        Add your LinkedIn, GitHub profile links
+    </p>
+
+</body>
+</html>
